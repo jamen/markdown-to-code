@@ -1,0 +1,8 @@
+{
+    "name": "@jamen/markdown-to-code",
+    "version": "0.2.0",
+    "description": "A literate programming tool using markdown and its codeblocks.",
+    "author": "Jamen Marz <jamenmarz@gmail.com>",
+    "main": "src/markdown-to-code.js",
+    "bin": "src/markdown-to-code-cli.js"
+}
